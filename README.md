@@ -16,7 +16,7 @@ Everything installs straight into your AI agent through [Agensi](https://www.age
 
 The public catalog for every skill suite in the [Aloysius Von Fuck store on Agensi](https://www.agensi.io/creators/aloysius-von-fck): what each suite does, who it is for, and how to try it free before you pay.
 
-What this repo is **not**: a code dump. No SKILL.md files live here. Every skill is served and updated through Agensi's agent connection, so what you install is always the current tested version.
+Skills available on Agensi. Every skill is served and updated through Agensi's agent connection, so what you install is always the current tested version.
 
 ## How a skill gets into your agent
 
